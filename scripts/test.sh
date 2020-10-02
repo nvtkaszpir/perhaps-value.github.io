@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "meow"
+echo "~=[,,_,,]:3"
